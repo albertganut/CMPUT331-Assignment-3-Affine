@@ -4,8 +4,7 @@
 #
 # CMPUT 331 Student Submission License
 # Version 1.0
-# Copyright <<Insert the date here>> <<Insert your name here>>
-#
+# Copyright October 1, 2026 Albert Ganut
 # Redistribution is forbidden in all circumstances. Use of this software
 # without explicit authorization from the author is prohibited.
 #
@@ -32,7 +31,7 @@
 
 """
 CMPUT 331 Assignment 3 Student Solution
-Author: <Your name here>
+Author: Albert Ganut
 """
 
 from sys import flags
